@@ -66,7 +66,7 @@ var REWARDS_CONFIG = {
 
     // Викторина
     quiz: {
-        groups: 5,
+        groups: 3,
         skulls: [5, 4, 3],
         maxPlayersInLastGroup: 999,
         bonusSkulls: 0,
