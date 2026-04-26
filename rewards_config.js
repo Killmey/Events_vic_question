@@ -46,7 +46,7 @@ var REWARDS_CONFIG = {
     // TNT Run
     tntrun: {
         groups: 3,
-        skulls: [3, 2, 1],
+        skulls: [7, 5, 3],
         maxPlayersInLastGroup: 5,
         bonusSkulls: 0,
         specialRewards: {}
@@ -54,8 +54,8 @@ var REWARDS_CONFIG = {
 
     // Снежная Битва
     snowfight: {
-        groups: 1,
-        skulls: [4],
+        groups: 4,
+        skulls: [7, 5, 3, 1],
         maxPlayersInLastGroup: 999,
         bonusSkulls: 0,
         specialRewards: {
@@ -66,9 +66,9 @@ var REWARDS_CONFIG = {
 
     // Викторина
     quiz: {
-        groups: 3,
-        skulls: [5, 4, 3],
-        maxPlayersInLastGroup: 999,
+        groups: 5,
+        skulls: [12, 10, 8, 5, 3],
+        maxPlayersInLastGroup: 5,
         bonusSkulls: 0,
         specialRewards: {}
     }
