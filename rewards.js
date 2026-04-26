@@ -68,31 +68,6 @@ var REWARDS_CONFIG = {
             { place: 4, skulls: 4, bonusSkulls: 0 },
             { place: 5, skulls: 2, bonusSkulls: 0 }
         ],
-        hitRewards: {
-            levels: [
-                { hits: 1, skulls: 1 },
-                { hits: 5, skulls: 2 },
-                { hits: 10, skulls: 3 },
-                { hits: 15, skulls: 4 },
-                { hits: 20, skulls: 5 },
-                { hits: 25, skulls: 6 },
-                { hits: 30, skulls: 7 },
-                { hits: 35, skulls: 8 },
-                { hits: 40, skulls: 9 },
-                { hits: 45, skulls: 10 },
-                { hits: 50, skulls: 11 },
-                { hits: 55, skulls: 12 },
-                { hits: 60, skulls: 13 },
-                { hits: 65, skulls: 14 },
-                { hits: 70, skulls: 15 },
-                { hits: 75, skulls: 16 },
-                { hits: 80, skulls: 17 },
-                { hits: 85, skulls: 18 },
-                { hits: 90, skulls: 19 },
-                { hits: 95, skulls: 20 },
-                { hits: 100, skulls: 21 }
-            ]
-        },
         bestRewards: {
             defender: { skulls: 2 },
             attacker: { skulls: 3 }
