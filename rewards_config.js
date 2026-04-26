@@ -17,7 +17,7 @@ var REWARDS_CONFIG = {
     // Battle Royale
     battle: {
         groups: 3,
-        skulls: [3, 2, 1],
+        skulls: [7, 5, 3,],
         maxPlayersInLastGroup: 5,
         bonusSkulls: 0,
         specialRewards: {
@@ -27,8 +27,8 @@ var REWARDS_CONFIG = {
 
     // Горячая Картошка
     potato: {
-        groups: 4,
-        skulls: [10, 8, 6, 4],
+        groups: 3,
+        skulls: [10, 8, 6,],
         maxPlayersInLastGroup: 5,
         bonusSkulls: 0,
         specialRewards: {}
@@ -37,7 +37,7 @@ var REWARDS_CONFIG = {
     // Spleef
     spleef: {
         groups: 3,
-        skulls: [3, 2, 1],
+        skulls: [7, 5, 3],
         maxPlayersInLastGroup: 5,
         bonusSkulls: 0,
         specialRewards: {}
