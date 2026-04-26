@@ -21,14 +21,14 @@ var REWARDS_CONFIG = {
         maxPlayersInLastGroup: 5,
         bonusSkulls: 0,
         specialRewards: {
-            topKiller: 4
+            topKiller: 10
         }
     },
 
     // Горячая Картошка
     potato: {
-        groups: 3,
-        skulls: [3, 2, 1],
+        groups: 4,
+        skulls: [10, 8, 6, 4],
         maxPlayersInLastGroup: 5,
         bonusSkulls: 0,
         specialRewards: {}
